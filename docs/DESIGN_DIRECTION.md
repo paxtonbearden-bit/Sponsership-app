@@ -9,14 +9,14 @@ Trustworthy, warm, plain-spoken. Closer to a good community bank or a well-run c
 | Token | Value | Use |
 |---|---|---|
 | primary | #1E4D8C (deep blue) | main buttons, links |
-| accent / CTA | #16A34A (green) | "Sponsor this event", "Lock in next year" |
+| accent / CTA | #15803D (green; darkened from #16A34A so white text passes 4.5:1) | "Sponsor this event", "Lock in next year" |
 | background | #F8FAFC | page |
 | card | #FFFFFF | cards |
 | foreground | #0F172A | body text |
 | muted foreground | #475569 | secondary text |
 | border | #E2E8F0 | dividers |
 | destructive | #DC2626 | errors, "missed" |
-| delivered | #16A34A | delivered badge |
+| delivered | #15803D | delivered badge |
 
 All text pairings must meet 4.5:1 contrast. Verified during build.
 
